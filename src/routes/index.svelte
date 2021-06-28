@@ -3,6 +3,7 @@
 </script>
 
 <script lang="ts">
+	let message:number = "hello"
 	import Counter from '$lib/Counter/index.svelte';
 </script>
 
